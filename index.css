@@ -28,7 +28,7 @@ body{
     padding-bottom: 6rem;
     text-align: center;
     color: #000;
-    background-image: url("/back.jpeg");
+    background-image: url("assets/img/back.jpeg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
